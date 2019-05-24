@@ -4,7 +4,7 @@
 ## Additional Information
 
 This firmware is configured for the Creality Ender-3 with a Biqu/BigTreeTech SKR 1.3 and TMC5160s as well as the following mods:
-* Bondtech BMG/E3D V6 in direct drive (Petsfang)
+* Bondtech BMG/E3D V6 in direct drive ([Petsfang](https://www.thingiverse.com/thing:2963434))
 * 0.9 LDO pancake stepper
 * Copper block + Slice Engineering vanadium nozzle
 * BLTouch

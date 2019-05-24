@@ -9,6 +9,8 @@ This firmware is configured for the Creality Ender-3 with a Biqu/BigTreeTech SKR
 * 0.9 LDO pancake stepper
 * Copper block + Slice Engineering vanadium nozzle
 * BLTouch
+* Anycubic AC-3D651/Busheng 17HD40005-22B, 1.8 degree stepper on Y-axis
+* Creality 42-40/JKong Motor JK42HS40-1004A-02F 1.8 degree stepper on X-axis (formerally used as the extruder motor)
 * Custom Keenovo AC-powered bed w/ removable spring steel sheet
 * Linear rail on Y
 * Pi/OctoPrint (SD card changes were to allow for remote firmware updates)

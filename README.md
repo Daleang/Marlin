@@ -6,7 +6,7 @@
 This firmware is configured for the Creality Ender-3 with a Biqu/BigTreeTech SKR 1.3 and TMC5160s *with* Linear Advance enabled ([demo](https://youtu.be/DplBQubcGCM)) as well as the following mods:
 * 1/32 microstepping
 * Bondtech BMG/E3D V6 in direct drive ([Petsfang](https://www.thingiverse.com/thing:2963434))
-* 0.9 LDO pancake stepper
+* 0.9 degree LDO pancake stepper on E
 * Copper block + Slice Engineering vanadium nozzle
 * BLTouch
 * Anycubic AC-3D651/Busheng 17HD40005-22B, 1.8 degree stepper on Y-axis
